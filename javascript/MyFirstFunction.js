@@ -23,3 +23,9 @@ intro();
 
 let i = Calculator(4, 5, add);
 console.log(i);
+
+// these updated
+function local() {
+  console.log("I am Git hub");
+}
+local();
